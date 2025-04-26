@@ -1,0 +1,554 @@
+BONE TUMOR ANALYSIS REPORT
+==================================================
+Generated: 2025-04-18 17:25:26
+
+SUMMARY STATISTICS:
+- Total Images Processed: 129
+- Malignant Cases Detected: 19
+- Average Tumor Area: 169.7 pixels
+- Largest Tumor Area: 930.0 pixels
+
+DETECTION RESULTS:
+                                              Image      Detection     Coordinates  Confidence Label
+    -1-_jpg.rf.53eac29a51d6094f6d5dcdff51f77017.jpg Tumor Detected     7,4,503,512      0.9378 Tumor
+   -10-_jpg.rf.889dd6fb56f8e29060845f66618fc3a1.jpg Tumor Detected  115,24,410,467      0.5305 Tumor
+   -10-_jpg.rf.889dd6fb56f8e29060845f66618fc3a1.jpg Tumor Detected    90,2,434,413      0.5003 Tumor
+   -15-_jpg.rf.fe7c0eff751bcbeeec1bf2eb8c2057e8.jpg Tumor Detected   35,85,506,499      0.9229 Tumor
+   -15-_jpg.rf.fe7c0eff751bcbeeec1bf2eb8c2057e8.jpg Tumor Detected   39,50,506,211      0.7014 Tumor
+   -17-_jpg.rf.cb562dc02fc595f4fa137bb5ac8d5f21.jpg Tumor Detected   24,33,509,432      0.7873 Tumor
+   -18-_jpg.rf.a17509afe2d41d9b83fad1218af69cc9.jpg Tumor Detected     7,4,512,498      0.8849 Tumor
+   -21-_jpg.rf.bc4d2a822845cfc79d7eb48eed5ce3a1.jpg Tumor Detected     9,0,495,504      0.9785 Tumor
+   -21-_jpg.rf.bc4d2a822845cfc79d7eb48eed5ce3a1.jpg Tumor Detected  19,243,498,501      0.5244 Tumor
+   -22-_jpg.rf.90968d03ecbf6c61a52f873edc113bd0.jpg Tumor Detected    5,26,503,484      0.9453 Tumor
+   -22-_jpg.rf.90968d03ecbf6c61a52f873edc113bd0.jpg Tumor Detected    8,15,504,249      0.5232 Tumor
+   -23-_jpg.rf.d7f26bde896fb20967f4b7f5040234f3.jpg Tumor Detected   27,37,507,500      0.8849 Tumor
+   -24-_jpg.rf.bce3ccf0a921014271720364d8956694.jpg Tumor Detected  82,122,499,454      0.5669 Tumor
+   -27-_jpg.rf.d93786a6a83da22c63352c41df928939.jpg Tumor Detected   24,38,505,508      0.7134 Tumor
+    -3-_jpg.rf.5c57a8add85156e24bc68cb2947cde45.jpg Tumor Detected    49,4,506,503      0.9532 Tumor
+   -32-_jpg.rf.e101ab9c4998fd9eb93531c85ff52010.jpg Tumor Detected    7,53,512,506      0.5446 Tumor
+   -33-_jpg.rf.cac0be009e32ed06ce121da7b89e8930.jpg Tumor Detected    10,8,482,512      0.6948 Tumor
+   -36-_jpg.rf.887b3cfcfdc62a0ecfdfca75b7091859.jpg Tumor Detected  56,394,244,440      0.6046 Tumor
+    -4-_jpg.rf.9d861ee840cf83450ecdeeee7738f5e3.jpg Tumor Detected   9,318,512,506      0.7850 Tumor
+    -4-_jpg.rf.9d861ee840cf83450ecdeeee7738f5e3.jpg Tumor Detected    22,6,491,260      0.6701 Tumor
+   -42-_jpg.rf.449a8e6271c1348b3810e98e15d1d343.jpg Tumor Detected    0,86,504,506      0.9432 Tumor
+   -47-_jpg.rf.1d18532db29349c6957e588284a93571.jpg Tumor Detected   6,181,512,489      0.5347 Tumor
+   -48-_jpg.rf.29c1e93c680f90f5c2f047b2a30d00f8.jpg Tumor Detected   0,114,512,506      0.6436 Tumor
+   -49-_jpg.rf.77c9c0bbc9bfb392a53de2c86aa8dcd0.jpg Tumor Detected  359,82,418,214      0.7803 Tumor
+   -49-_jpg.rf.77c9c0bbc9bfb392a53de2c86aa8dcd0.jpg Tumor Detected     8,8,511,468      0.7047 Tumor
+   -49-_jpg.rf.77c9c0bbc9bfb392a53de2c86aa8dcd0.jpg Tumor Detected 354,289,432,419      0.6582 Tumor
+   -50-_jpg.rf.b6a07b193f93e55f6c8098ba652ef81a.jpg Tumor Detected   10,73,497,490      0.5475 Tumor
+   -51-_jpg.rf.0e98efe5f18ae921ec4a412d3fe4e447.jpg Tumor Detected   58,24,512,492      0.7448 Tumor
+   -52-_jpg.rf.9ff68c5805078b9ea58609cd8b3c334e.jpg Tumor Detected  11,249,499,498      0.9420 Tumor
+   -52-_jpg.rf.9ff68c5805078b9ea58609cd8b3c334e.jpg Tumor Detected    3,22,504,369      0.7796 Tumor
+   -53-_jpg.rf.08d303d0b43c7b71c3581ec02d7390c3.jpg Tumor Detected   5,329,509,483      0.6944 Tumor
+   -55-_jpg.rf.0ca09338404c9bd5f9d7889019c0d52a.jpg Tumor Detected    7,20,509,471      0.6781 Tumor
+   -56-_jpg.rf.914346f667eca01f60a326caab81979c.jpg Tumor Detected   11,30,512,378      0.6868 Tumor
+   -56-_jpg.rf.914346f667eca01f60a326caab81979c.jpg Tumor Detected   4,307,504,502      0.6686 Tumor
+   -60-_jpg.rf.3533b1005330945a0629f018dc2ee938.jpg Tumor Detected    0,44,505,487      0.8999 Tumor
+  -61-1_jpg.rf.491b4fe71c015563c347f2446f455b31.jpg Tumor Detected   14,28,512,512      0.6424 Tumor
+   -61-_jpg.rf.79760564bbacfe0a84ed1a52d0611961.jpg Tumor Detected    1,55,512,504      0.7237 Tumor
+   -61-_jpg.rf.79760564bbacfe0a84ed1a52d0611961.jpg Tumor Detected    4,13,512,272      0.5706 Tumor
+   -64-_jpg.rf.82b5f27bedde64cce8767910568c8133.jpg Tumor Detected   31,39,512,510      0.5350 Tumor
+   -66-_jpg.rf.003796907f87e42b3756a7c4261024c0.jpg Tumor Detected    0,54,512,512      0.5208 Tumor
+102_JPG_jpg.rf.7c548adb037ac2a350085e8926286d45.jpg Tumor Detected 336,386,382,468      0.9510 Tumor
+106_JPG_jpg.rf.f5e5b70121c66e035de4983874467a3e.jpg Tumor Detected  251,33,417,202      0.6195 Tumor
+108_JPG_jpg.rf.2750bee55f7b538687c87b35c6c0f75b.jpg Tumor Detected 328,288,420,491      0.7542 Tumor
+108_JPG_jpg.rf.2750bee55f7b538687c87b35c6c0f75b.jpg Tumor Detected  328,44,438,481      0.7364 Tumor
+108_JPG_jpg.rf.2750bee55f7b538687c87b35c6c0f75b.jpg Tumor Detected  73,275,195,488      0.7319 Tumor
+108_JPG_jpg.rf.4d0d1005a0c2dc23f0411a1d7838a3ab.jpg Tumor Detected 199,284,280,321      0.7127 Tumor
+     10_jpg.rf.5e1c08bc17a9eeb4662075434025d691.jpg Tumor Detected   13,23,253,458      0.8462 Tumor
+110_JPG_jpg.rf.aedb974c0597a31eaf08e7ea867d60d7.jpg Tumor Detected  69,223,139,413      0.5095 Tumor
+111_JPG_jpg.rf.ccbbebd750e631f2f5ab400ff71fbfcb.jpg Tumor Detected   3,130,274,395      0.6966 Tumor
+111_JPG_jpg.rf.ccbbebd750e631f2f5ab400ff71fbfcb.jpg Tumor Detected 160,115,486,386      0.6267 Tumor
+111_JPG_jpg.rf.ccbbebd750e631f2f5ab400ff71fbfcb.jpg Tumor Detected 263,139,404,346      0.5176 Tumor
+115_JPG_jpg.rf.d23b07b88ebbc28738b91a7985a0154d.jpg Tumor Detected  329,47,462,412      0.6036 Tumor
+128_JPG_jpg.rf.1089b2e84d432e2b831c78869ba43461.jpg Tumor Detected 332,204,425,479      0.7041 Tumor
+128_JPG_jpg.rf.1089b2e84d432e2b831c78869ba43461.jpg Tumor Detected  93,166,193,487      0.6250 Tumor
+129_JPG_jpg.rf.165ba5cf271ff64abacd73a66b9b5a78.jpg Tumor Detected 317,220,417,475      0.8118 Tumor
+     12_jpg.rf.2cfd8e49a496edf3cccc45bd86a42294.jpg Tumor Detected  279,84,354,413      0.8821 Tumor
+130_JPG_jpg.rf.ce6c03984df6a438aee8ed46dc0619ac.jpg Tumor Detected  231,32,412,389      0.5542 Tumor
+130_JPG_jpg.rf.ce6c03984df6a438aee8ed46dc0619ac.jpg Tumor Detected  93,195,179,417      0.5079 Tumor
+132_JPG_jpg.rf.4da49fa7d0c4831db329da29babfcd76.jpg Tumor Detected  21,116,425,415      0.5554 Tumor
+132_JPG_jpg.rf.4da49fa7d0c4831db329da29babfcd76.jpg Tumor Detected 326,170,459,406      0.5158 Tumor
+132_JPG_jpg.rf.717975238b1eba914599ae07f8c0d51f.jpg Tumor Detected  97,319,280,389      0.6143 Tumor
+132_JPG_jpg.rf.c55d4af3cdf307afc1a9b84b41fa1423.jpg Tumor Detected   22,60,511,416      0.5765 Tumor
+134_JPG_jpg.rf.9625b072169f122dd359da6d46634148.jpg Tumor Detected 153,265,397,448      0.5263 Tumor
+ 13_JPG_jpg.rf.061978472c916ba740a89d59cd171c65.jpg Tumor Detected 433,356,467,400      0.5122 Tumor
+141_JPG_jpg.rf.6177aabf820252592a9a23c8eb3cdfc5.jpg Tumor Detected 402,310,502,505      0.7761 Tumor
+143_JPG_jpg.rf.c0d1292a39a3eb685d46fd61b38c5c24.jpg Tumor Detected 290,411,303,435      0.7946 Tumor
+143_JPG_jpg.rf.c0d1292a39a3eb685d46fd61b38c5c24.jpg Tumor Detected 287,402,306,456      0.7927 Tumor
+143_JPG_jpg.rf.c0d1292a39a3eb685d46fd61b38c5c24.jpg Tumor Detected 289,408,305,448      0.5090 Tumor
+143_JPG_jpg.rf.eb905f436e056ab357f2279eb773d93d.jpg Tumor Detected 324,363,407,416      0.9923 Tumor
+143_JPG_jpg.rf.eb905f436e056ab357f2279eb773d93d.jpg Tumor Detected  78,359,358,453      0.7880 Tumor
+146_JPG_jpg.rf.60a18599ccb14273329e64c4940c19ff.jpg Tumor Detected   12,22,483,498      0.6009 Tumor
+147_JPG_jpg.rf.7844b6f6eb3922feda579be76f7f6fd3.jpg Tumor Detected  221,74,482,494      0.5208 Tumor
+148_JPG_jpg.rf.351b2e141424673ee5b7c376303d9601.jpg Tumor Detected    4,69,506,144      0.5685 Tumor
+148_JPG_jpg.rf.a97e34d9ae842c4a659f1db934323921.jpg Tumor Detected  228,60,431,419      0.7294 Tumor
+150_JPG_jpg.rf.fbeb2ae6271e387bcdea484dc92bdadd.jpg Tumor Detected 332,416,374,491      0.9724 Tumor
+151_JPG_jpg.rf.75b691d0b69ee50693b4493ffea7afa6.jpg Tumor Detected 332,418,376,488      0.9822 Tumor
+151_JPG_jpg.rf.75b691d0b69ee50693b4493ffea7afa6.jpg Tumor Detected   20,80,241,271      0.8565 Tumor
+152_JPG_jpg.rf.2a88820bf0a4898981b07e142de029eb.jpg Tumor Detected 205,157,239,209      0.5650 Tumor
+153_JPG_jpg.rf.13628f4257d11a05bd97007de13bf4b7.jpg Tumor Detected  72,223,187,490      0.8534 Tumor
+156_JPG_jpg.rf.d80d8659f48ec0f8ce7815136d6c492e.jpg Tumor Detected  328,66,428,490      0.8070 Tumor
+157_JPG_jpg.rf.980b3faa366ba3099e4d46b3857346dc.jpg Tumor Detected 308,150,423,504      0.8514 Tumor
+157_JPG_jpg.rf.980b3faa366ba3099e4d46b3857346dc.jpg Tumor Detected  30,143,226,501      0.7114 Tumor
+157_JPG_jpg.rf.980b3faa366ba3099e4d46b3857346dc.jpg Tumor Detected  159,55,432,500      0.5530 Tumor
+158_JPG_jpg.rf.d73d4d5cbb4a8f1affbf390d2fe0efaa.jpg Tumor Detected   90,82,406,483      0.5146 Tumor
+160_JPG_jpg.rf.81b414a67b48198db75402a0fa99eee3.jpg Tumor Detected  44,104,151,370      0.7000 Tumor
+160_JPG_jpg.rf.81b414a67b48198db75402a0fa99eee3.jpg Tumor Detected   63,70,272,386      0.6061 Tumor
+160_JPG_jpg.rf.81b414a67b48198db75402a0fa99eee3.jpg Tumor Detected 110,203,209,327      0.5305 Tumor
+161_JPG_jpg.rf.d3d1d5cbec1b4d40addc402694114867.jpg Tumor Detected  94,110,382,470      0.5730 Tumor
+161_JPG_jpg.rf.fb066e11e911fbef64020e2f20c2017c.jpg Tumor Detected    93,5,451,445      0.6868 Tumor
+164_JPG_jpg.rf.a28323aa4ba0855a4c28064a28779065.jpg Tumor Detected   89,94,383,293      0.7589 Tumor
+164_JPG_jpg.rf.a28323aa4ba0855a4c28064a28779065.jpg Tumor Detected   77,69,380,488      0.7139 Tumor
+169_JPG_jpg.rf.0178a5c0fba48f939a3db2f07d51b790.jpg Tumor Detected    9,81,471,409      0.5797 Tumor
+ 16_JPG_jpg.rf.5386f0038ed46bdefcea4f567dbd5fbf.jpg Tumor Detected  94,339,500,441      0.8133 Tumor
+170_JPG_jpg.rf.24222b3669bb829637f4a61f311f9b1b.jpg Tumor Detected 102,155,206,479      0.5855 Tumor
+170_JPG_jpg.rf.24222b3669bb829637f4a61f311f9b1b.jpg Tumor Detected 260,161,434,463      0.5299 Tumor
+175_JPG_jpg.rf.7998a804b66bbceda443ec9e0515e83c.jpg Tumor Detected  78,220,464,494      0.5123 Tumor
+176_JPG_jpg.rf.96469fdb2e4263328d0f151c427e9fae.jpg Tumor Detected  17,181,500,445      0.9078 Tumor
+178_JPG_jpg.rf.f59b665c83c44a7c201ad1fc521d58b3.jpg Tumor Detected  175,80,244,494      0.6703 Tumor
+179_JPG_jpg.rf.dc1bb8860ebc01739c233cc08d5121c5.jpg Tumor Detected 110,259,423,499      0.5313 Tumor
+181_JPG_jpg.rf.75918bb4cfa9095b6d283c7a72db208f.jpg Tumor Detected  23,162,498,436      0.8126 Tumor
+181_JPG_jpg.rf.75918bb4cfa9095b6d283c7a72db208f.jpg Tumor Detected   8,317,512,445      0.5929 Tumor
+182_JPG_jpg.rf.a0625372688546be2539dc0ac789d56c.jpg Tumor Detected   10,66,497,443      0.7793 Tumor
+183_JPG_jpg.rf.babe2899b7e9e48a3cc3780aba01578a.jpg Tumor Detected 243,124,376,224      0.5895 Tumor
+184_JPG_jpg.rf.782086206b906957f764532559ff1639.jpg Tumor Detected  14,201,141,482      0.6227 Tumor
+185_JPG_jpg.rf.9d81c6c1ae4ab69dfcaa03f3df9eef60.jpg Tumor Detected  12,272,462,425      0.8363 Tumor
+185_JPG_jpg.rf.9d81c6c1ae4ab69dfcaa03f3df9eef60.jpg Tumor Detected   8,112,482,472      0.5797 Tumor
+186_JPG_jpg.rf.eae72768b80556680b0ae3dce7e22852.jpg Tumor Detected   31,82,499,422      0.9557 Tumor
+186_JPG_jpg.rf.eae72768b80556680b0ae3dce7e22852.jpg Tumor Detected  39,328,512,447      0.6406 Tumor
+188_JPG_jpg.rf.b7a92068dbfd9ba209c78b639aac3431.jpg Tumor Detected 304,134,453,429      0.5495 Tumor
+189_JPG_jpg.rf.730211fc485967a85610a7c56ae45342.jpg Tumor Detected  233,50,390,404      0.5944 Tumor
+193_JPG_jpg.rf.4048482795844fae4db439c8adeb8f48.jpg Tumor Detected 209,140,320,465      0.9389 Tumor
+193_JPG_jpg.rf.4048482795844fae4db439c8adeb8f48.jpg Tumor Detected  167,14,445,445      0.6009 Tumor
+193_JPG_jpg.rf.75bce10b67f8c37d981ffc9aac1a7422.jpg Tumor Detected   3,115,505,474      0.7011 Tumor
+194_JPG_jpg.rf.8505e477f43ff122fa07dc8ef495a871.jpg Tumor Detected   1,323,510,446      0.8617 Tumor
+195_JPG_jpg.rf.53176cf0fe2e80025378484dd6aef115.jpg Tumor Detected   3,100,512,454      0.6159 Tumor
+195_JPG_jpg.rf.72031a979f170cdbb9996374472ce203.jpg Tumor Detected   7,280,503,446      0.9099 Tumor
+195_JPG_jpg.rf.72031a979f170cdbb9996374472ce203.jpg Tumor Detected   9,102,504,473      0.8902 Tumor
+195_JPG_jpg.rf.cae872dfaa3fe3ead61b6162b4d5366e.jpg Tumor Detected    29,8,500,493      0.5239 Tumor
+196_JPG_jpg.rf.e5ec6cb5121e4dc5a705ad16f49cb7ae.jpg Tumor Detected  33,254,495,435      0.6099 Tumor
+197_JPG_jpg.rf.5b512cfd3ee9ef044cd9a91ccb1a7df6.jpg Tumor Detected  190,10,484,450      0.5966 Tumor
+197_JPG_jpg.rf.5b512cfd3ee9ef044cd9a91ccb1a7df6.jpg Tumor Detected    38,0,294,438      0.5949 Tumor
+197_JPG_jpg.rf.67db4bc88232a7f46067e301c690328e.jpg Tumor Detected   70,28,382,509      0.7561 Tumor
+199_JPG_jpg.rf.43d7aaf167a2dbde71896bbffbf6ca8f.jpg Tumor Detected   17,30,510,467      0.5865 Tumor
+202_JPG_jpg.rf.d24665f4b058e52f1dabbb09492bd497.jpg Tumor Detected    2,87,498,505      0.9151 Tumor
+206_JPG_jpg.rf.57790ed99ab5587514fb22486bfe0f18.jpg Tumor Detected 363,106,471,170      0.9461 Tumor
+ 23_JPG_jpg.rf.94732d762e7e1287c58d64a281a84d14.jpg Tumor Detected    1,23,148,458      0.7744 Tumor
+ 25_JPG_jpg.rf.956b909c256547556bd522bafcd37aa2.jpg Tumor Detected 307,159,493,428      0.5730 Tumor
+ 28_JPG_jpg.rf.4212c43b5407c4015df3d71377f3ac9e.jpg Tumor Detected 112,397,430,503      0.5569 Tumor
+ 28_JPG_jpg.rf.4212c43b5407c4015df3d71377f3ac9e.jpg Tumor Detected  75,258,430,497      0.5390 Tumor
+
+
+CLASSIFICATION RESULTS:
+                                              Image        Class  Confidence
+    -1-_jpg.rf.53eac29a51d6094f6d5dcdff51f77017.jpg Intermediate      0.3964
+   -10-_jpg.rf.889dd6fb56f8e29060845f66618fc3a1.jpg       Benign      0.3729
+   -15-_jpg.rf.fe7c0eff751bcbeeec1bf2eb8c2057e8.jpg Intermediate      0.3763
+   -17-_jpg.rf.cb562dc02fc595f4fa137bb5ac8d5f21.jpg Intermediate      0.3613
+   -18-_jpg.rf.a17509afe2d41d9b83fad1218af69cc9.jpg Intermediate      0.3543
+    -2-_jpg.rf.638c42d59a9ad2aa07ee948c6df915d8.jpg Intermediate      0.3792
+   -21-_jpg.rf.bc4d2a822845cfc79d7eb48eed5ce3a1.jpg Intermediate      0.4014
+   -22-_jpg.rf.90968d03ecbf6c61a52f873edc113bd0.jpg Intermediate      0.3927
+   -23-_jpg.rf.d7f26bde896fb20967f4b7f5040234f3.jpg Intermediate      0.3834
+   -24-_jpg.rf.bce3ccf0a921014271720364d8956694.jpg Intermediate      0.3713
+   -25-_jpg.rf.8e87352b0a409b24358c7735d9bf3365.jpg Intermediate      0.3777
+   -27-_jpg.rf.d93786a6a83da22c63352c41df928939.jpg Intermediate      0.4005
+    -3-_jpg.rf.5c57a8add85156e24bc68cb2947cde45.jpg Intermediate      0.4202
+   -30-_jpg.rf.94980c4297bfbc625c3ef250df7a908e.jpg Intermediate      0.3761
+   -32-_jpg.rf.e101ab9c4998fd9eb93531c85ff52010.jpg Intermediate      0.4004
+   -33-_jpg.rf.cac0be009e32ed06ce121da7b89e8930.jpg Intermediate      0.3639
+   -36-_jpg.rf.887b3cfcfdc62a0ecfdfca75b7091859.jpg       Benign      0.3768
+   -38-_jpg.rf.f6f71130f25ab66fa5e73373a8d8c4f8.jpg Intermediate      0.3523
+    -4-_jpg.rf.9d861ee840cf83450ecdeeee7738f5e3.jpg Intermediate      0.3878
+   -40-_jpg.rf.2432ba0e8b6387de73317e7b88f7e1e9.jpg Intermediate      0.4603
+   -42-_jpg.rf.449a8e6271c1348b3810e98e15d1d343.jpg Intermediate      0.3765
+   -45-_jpg.rf.ce80d60d68a4c7cbf476f8f06bb03072.jpg Intermediate      0.4157
+   -47-_jpg.rf.1d18532db29349c6957e588284a93571.jpg Intermediate      0.3851
+   -48-_jpg.rf.29c1e93c680f90f5c2f047b2a30d00f8.jpg Intermediate      0.3579
+   -49-_jpg.rf.77c9c0bbc9bfb392a53de2c86aa8dcd0.jpg Intermediate      0.4124
+   -50-_jpg.rf.b6a07b193f93e55f6c8098ba652ef81a.jpg Intermediate      0.3681
+   -51-_jpg.rf.0e98efe5f18ae921ec4a412d3fe4e447.jpg       Benign      0.3666
+   -52-_jpg.rf.9ff68c5805078b9ea58609cd8b3c334e.jpg Intermediate      0.3888
+   -53-_jpg.rf.08d303d0b43c7b71c3581ec02d7390c3.jpg Intermediate      0.3522
+   -55-_jpg.rf.0ca09338404c9bd5f9d7889019c0d52a.jpg Intermediate      0.3534
+   -56-_jpg.rf.914346f667eca01f60a326caab81979c.jpg Intermediate      0.3624
+   -58-_jpg.rf.22c0ec71aa30dd21ce2c651b4ec75a95.jpg Intermediate      0.3537
+   -60-_jpg.rf.3533b1005330945a0629f018dc2ee938.jpg       Benign      0.4253
+  -61-1_jpg.rf.491b4fe71c015563c347f2446f455b31.jpg Intermediate      0.4136
+  -61-2_png.rf.9ea13ab9533cf643f6705e48cc95f5de.jpg Intermediate      0.3885
+   -61-_jpg.rf.79760564bbacfe0a84ed1a52d0611961.jpg Intermediate      0.3836
+   -63-_jpg.rf.448db0424a5031a41855196b87039494.jpg Intermediate      0.4102
+   -64-_jpg.rf.82b5f27bedde64cce8767910568c8133.jpg Intermediate      0.4003
+   -66-_jpg.rf.003796907f87e42b3756a7c4261024c0.jpg    Malignant      0.3589
+    -8-_jpg.rf.12b43a610c7acba9fd71f7614a17b853.jpg Intermediate      0.3818
+    -9-_jpg.rf.f8a2b031970b17f534ae59298ce379c1.jpg Intermediate      0.3839
+102_JPG_jpg.rf.7c548adb037ac2a350085e8926286d45.jpg       Benign      0.3535
+104_JPG_jpg.rf.dc411cb3b6e2e6acc78a920380f17fb9.jpg       Benign      0.3694
+106_JPG_jpg.rf.f5e5b70121c66e035de4983874467a3e.jpg    Malignant      0.3577
+108_JPG_jpg.rf.2750bee55f7b538687c87b35c6c0f75b.jpg       Benign      0.3824
+108_JPG_jpg.rf.39bc1ff475f1398954128da1b701f43a.jpg       Benign      0.3707
+108_JPG_jpg.rf.4d0d1005a0c2dc23f0411a1d7838a3ab.jpg Intermediate      0.3590
+     10_jpg.rf.5e1c08bc17a9eeb4662075434025d691.jpg Intermediate      0.3463
+     10_jpg.rf.6b6a63c71f37d0148762bc62f7b1910f.jpg       Benign      0.3574
+110_JPG_jpg.rf.5115145f34807f104b4b06277d7a6ab3.jpg       Benign      0.3582
+110_JPG_jpg.rf.aedb974c0597a31eaf08e7ea867d60d7.jpg       Benign      0.4054
+111_JPG_jpg.rf.ccbbebd750e631f2f5ab400ff71fbfcb.jpg       Benign      0.3728
+112_JPG_jpg.rf.07a19eaaa53b35ef917319b22977aa2d.jpg       Benign      0.4047
+115_JPG_jpg.rf.48c1be54b136a5ca9ae883df5f4ee7b7.jpg       Benign      0.3960
+115_JPG_jpg.rf.d23b07b88ebbc28738b91a7985a0154d.jpg Intermediate      0.3931
+116_JPG_jpg.rf.4c96aed6d0c7991afe26e9b170c81fa2.jpg       Benign      0.4337
+117_JPG_jpg.rf.3999812db7b081da950f2440ece61f1e.jpg       Benign      0.4025
+117_JPG_jpg.rf.9a249114d634720166e577cbf81ca3fe.jpg       Benign      0.3624
+     11_jpg.rf.bc8b735f634bc296fa856b6b2d85c3cd.jpg    Malignant      0.3461
+122_JPG_jpg.rf.8f249eb6c6f6bf717f62d6dc3fc7c082.jpg    Malignant      0.3631
+122_JPG_jpg.rf.a6c73fc5412d937a09a7598ca2e71395.jpg Intermediate      0.3891
+123_JPG_jpg.rf.18835352993520943b6497cdfdcec40d.jpg    Malignant      0.3890
+123_JPG_jpg.rf.36401aacf6f5b5ab838077545f3774af.jpg       Benign      0.3904
+125_JPG_jpg.rf.d9989ff8a5e1c68981b751aff70d70f1.jpg       Benign      0.3808
+126_JPG_jpg.rf.197ddb8c3908d2e1962adb7af866a3a0.jpg       Benign      0.3659
+127_JPG_jpg.rf.a480aff4f992bf555e1508b4b0829f07.jpg Intermediate      0.3516
+128_JPG_jpg.rf.1089b2e84d432e2b831c78869ba43461.jpg Intermediate      0.3693
+128_JPG_jpg.rf.dcd66afd3deecefe3f1b7f99088629ee.jpg    Malignant      0.3452
+129_JPG_jpg.rf.165ba5cf271ff64abacd73a66b9b5a78.jpg       Benign      0.4006
+     12_jpg.rf.2cfd8e49a496edf3cccc45bd86a42294.jpg       Benign      0.3834
+     12_jpg.rf.74a274af243af7783e3af7b615fb252d.jpg       Benign      0.3733
+130_JPG_jpg.rf.ce6c03984df6a438aee8ed46dc0619ac.jpg       Benign      0.3876
+131_JPG_jpg.rf.1a7a45281a6dec229fc8f1688bbc2214.jpg    Malignant      0.3573
+132_JPG_jpg.rf.4da49fa7d0c4831db329da29babfcd76.jpg       Benign      0.3861
+132_JPG_jpg.rf.717975238b1eba914599ae07f8c0d51f.jpg       Benign      0.3483
+132_JPG_jpg.rf.c55d4af3cdf307afc1a9b84b41fa1423.jpg    Malignant      0.3659
+134_JPG_jpg.rf.9625b072169f122dd359da6d46634148.jpg       Benign      0.4378
+135_JPG_jpg.rf.9fb262768c7b8d8560e662cca297724e.jpg       Benign      0.3829
+136_JPG_jpg.rf.d87a113647354e19a35f68b3f00c002e.jpg       Benign      0.3951
+136_JPG_jpg.rf.f0a4d26d8e0d15e2a259603f402b69e6.jpg       Benign      0.3566
+137_JPG_jpg.rf.99b3924e54fc289d559e72c7430e4e36.jpg Intermediate      0.3994
+137_JPG_jpg.rf.b5adf4df34d8f170e6c87c771532f0f2.jpg Intermediate      0.3382
+138_JPG_jpg.rf.3708b18880f3b6502ebfbe2c7455cf04.jpg       Benign      0.3655
+138_JPG_jpg.rf.8f0d70313253455ba92e967e894a84e2.jpg       Benign      0.4117
+139_JPG_jpg.rf.740d322dbd137a4cb7357ff66e8bcb4b.jpg       Benign      0.3708
+ 13_JPG_jpg.rf.061978472c916ba740a89d59cd171c65.jpg       Benign      0.4140
+ 13_JPG_jpg.rf.97263fe8f8a4d7e0f1bac8399178e5b7.jpg Intermediate      0.3896
+141_JPG_jpg.rf.6177aabf820252592a9a23c8eb3cdfc5.jpg Intermediate      0.3634
+142_JPG_jpg.rf.7b44f0c687beac71ebc6e78a583007af.jpg       Benign      0.3629
+143_JPG_jpg.rf.c0d1292a39a3eb685d46fd61b38c5c24.jpg       Benign      0.3708
+143_JPG_jpg.rf.eb905f436e056ab357f2279eb773d93d.jpg       Benign      0.3890
+144_JPG_jpg.rf.c9a1af4cb529d5e50f2394231efb53f1.jpg       Benign      0.3612
+145_JPG_jpg.rf.7174d2bbbafe4231d3a7d704da3e012c.jpg       Benign      0.4147
+146_JPG_jpg.rf.60a18599ccb14273329e64c4940c19ff.jpg       Benign      0.4030
+146_JPG_jpg.rf.a31517bad303956df23afd0ada2b530c.jpg       Benign      0.4381
+147_JPG_jpg.rf.61bc494b43ba72428892a3367bc4ff65.jpg Intermediate      0.3766
+147_JPG_jpg.rf.7844b6f6eb3922feda579be76f7f6fd3.jpg Intermediate      0.3894
+148_JPG_jpg.rf.351b2e141424673ee5b7c376303d9601.jpg       Benign      0.3642
+148_JPG_jpg.rf.a97e34d9ae842c4a659f1db934323921.jpg       Benign      0.3963
+149_JPG_jpg.rf.bab751ac459534cd390335f1484eecca.jpg Intermediate      0.3668
+ 14_JPG_jpg.rf.82425c15fecf249835731730637efe23.jpg       Benign      0.3937
+150_JPG_jpg.rf.bb5d127bdf998218cd6c2660a91c4e99.jpg       Benign      0.3577
+150_JPG_jpg.rf.fbeb2ae6271e387bcdea484dc92bdadd.jpg Intermediate      0.4065
+151_JPG_jpg.rf.75b691d0b69ee50693b4493ffea7afa6.jpg Intermediate      0.4073
+152_JPG_jpg.rf.2a88820bf0a4898981b07e142de029eb.jpg    Malignant      0.3447
+153_JPG_jpg.rf.13628f4257d11a05bd97007de13bf4b7.jpg Intermediate      0.4368
+154_JPG_jpg.rf.721f0e4184e500e69568acf0647b8af8.jpg       Benign      0.3469
+156_JPG_jpg.rf.d27b9e46c764def50afd7995f412d749.jpg       Benign      0.3486
+156_JPG_jpg.rf.d80d8659f48ec0f8ce7815136d6c492e.jpg Intermediate      0.4198
+157_JPG_jpg.rf.22e695d1674e4bce474e6405cf0bde38.jpg Intermediate      0.3874
+157_JPG_jpg.rf.980b3faa366ba3099e4d46b3857346dc.jpg Intermediate      0.3649
+158_JPG_jpg.rf.1242fda0b6dd90c6574ea528a70cc298.jpg Intermediate      0.3815
+158_JPG_jpg.rf.d73d4d5cbb4a8f1affbf390d2fe0efaa.jpg Intermediate      0.3898
+ 15_JPG_jpg.rf.3bb6404157a126573e21eb036856a1da.jpg       Benign      0.4073
+160_JPG_jpg.rf.1426e46480a767b9d5948b4b77a0c07b.jpg Intermediate      0.3881
+160_JPG_jpg.rf.81b414a67b48198db75402a0fa99eee3.jpg       Benign      0.3568
+161_JPG_jpg.rf.d3d1d5cbec1b4d40addc402694114867.jpg       Benign      0.3592
+161_JPG_jpg.rf.fb066e11e911fbef64020e2f20c2017c.jpg       Benign      0.4072
+164_JPG_jpg.rf.76c45e75b68b84d694ca6ea325a58433.jpg Intermediate      0.3542
+164_JPG_jpg.rf.a28323aa4ba0855a4c28064a28779065.jpg Intermediate      0.3643
+169_JPG_jpg.rf.0178a5c0fba48f939a3db2f07d51b790.jpg       Benign      0.3938
+169_JPG_jpg.rf.02a0c2302cc5e4563adda9d68209d866.jpg       Benign      0.3973
+ 16_JPG_jpg.rf.4c07171addb2ecafd4f8b97aebd83f81.jpg       Benign      0.3506
+ 16_JPG_jpg.rf.5386f0038ed46bdefcea4f567dbd5fbf.jpg    Malignant      0.3399
+170_JPG_jpg.rf.24222b3669bb829637f4a61f311f9b1b.jpg Intermediate      0.3635
+170_JPG_jpg.rf.b8f00623bb06177eff073a9679634485.jpg       Benign      0.3370
+171_JPG_jpg.rf.026151bc7120b73749d5bc2971877313.jpg Intermediate      0.3837
+171_JPG_jpg.rf.dbc1134c24ada191e4d9a332fc742da8.jpg Intermediate      0.3984
+172_JPG_jpg.rf.73b1b1d5b0ef8f2b50871aea0ba2d237.jpg    Malignant      0.3596
+173_JPG_jpg.rf.0d88e9c0b6c29db9b6653b1d98c0b11e.jpg       Benign      0.4027
+174_JPG_jpg.rf.699d411c89c87c7c097d2c6f14201bfd.jpg       Benign      0.3688
+175_JPG_jpg.rf.7998a804b66bbceda443ec9e0515e83c.jpg    Malignant      0.3515
+176_JPG_jpg.rf.96469fdb2e4263328d0f151c427e9fae.jpg Intermediate      0.3498
+177_JPG_jpg.rf.f500dd6dca34b1c12aded10ae71e6dbe.jpg       Benign      0.3690
+178_JPG_jpg.rf.f59b665c83c44a7c201ad1fc521d58b3.jpg Intermediate      0.3844
+179_JPG_jpg.rf.618ac1c857df9d5145767b47f5e6840b.jpg       Benign      0.3493
+179_JPG_jpg.rf.dc1bb8860ebc01739c233cc08d5121c5.jpg       Benign      0.3964
+ 17_JPG_jpg.rf.1ec9b21d69b9a6a330bd23be2245a570.jpg       Benign      0.4261
+ 17_JPG_jpg.rf.f33aed52de923381680736cfaf4b5051.jpg       Benign      0.3444
+180_JPG_jpg.rf.2ddd89a03d6e1d2cdb955b2c1bb3327d.jpg    Malignant      0.3497
+181_JPG_jpg.rf.75918bb4cfa9095b6d283c7a72db208f.jpg Intermediate      0.4074
+182_JPG_jpg.rf.a0625372688546be2539dc0ac789d56c.jpg    Malignant      0.3564
+183_JPG_jpg.rf.7265b14b70175e710c781991b0711b42.jpg Intermediate      0.4609
+183_JPG_jpg.rf.babe2899b7e9e48a3cc3780aba01578a.jpg       Benign      0.3520
+184_JPG_jpg.rf.782086206b906957f764532559ff1639.jpg       Benign      0.3567
+184_JPG_jpg.rf.83b7d0ecd7a04ddaa86342795cdfb80b.jpg       Benign      0.3604
+185_JPG_jpg.rf.9d81c6c1ae4ab69dfcaa03f3df9eef60.jpg    Malignant      0.3784
+185_JPG_jpg.rf.fec6648825e902ae056a91370b046a34.jpg    Malignant      0.3606
+186_JPG_jpg.rf.eae72768b80556680b0ae3dce7e22852.jpg Intermediate      0.3406
+187_JPG_jpg.rf.bfeadd43af8da45c78f59a7691ef7870.jpg       Benign      0.4003
+187_JPG_jpg.rf.df74766d863468399f06fdc62c971ed8.jpg       Benign      0.3906
+188_JPG_jpg.rf.b7a92068dbfd9ba209c78b639aac3431.jpg       Benign      0.4133
+188_JPG_jpg.rf.d0cd15cb0ed99eb1f0fcf2bba47f218d.jpg Intermediate      0.3876
+189_JPG_jpg.rf.730211fc485967a85610a7c56ae45342.jpg       Benign      0.4184
+ 18_JPG_jpg.rf.3ddccaf764a95419c5d56cb944420900.jpg       Benign      0.4343
+ 18_JPG_jpg.rf.7db6c8a12ef412b7f5ff3f38eaede31d.jpg       Benign      0.4950
+191_JPG_jpg.rf.1e3941b96ec357fe7a6246aaf91da5aa.jpg       Benign      0.3503
+192_JPG_jpg.rf.b304f2b0ee63b918e387a4dfb4a16ae9.jpg       Benign      0.3643
+193_JPG_jpg.rf.4048482795844fae4db439c8adeb8f48.jpg Intermediate      0.3810
+193_JPG_jpg.rf.75bce10b67f8c37d981ffc9aac1a7422.jpg Intermediate      0.3842
+194_JPG_jpg.rf.8505e477f43ff122fa07dc8ef495a871.jpg Intermediate      0.3676
+195_JPG_jpg.rf.53176cf0fe2e80025378484dd6aef115.jpg    Malignant      0.3685
+195_JPG_jpg.rf.72031a979f170cdbb9996374472ce203.jpg Intermediate      0.3958
+195_JPG_jpg.rf.cae872dfaa3fe3ead61b6162b4d5366e.jpg Intermediate      0.3684
+196_JPG_jpg.rf.9abc9c114b9723576d6acf3abf928429.jpg       Benign      0.4246
+196_JPG_jpg.rf.e5ec6cb5121e4dc5a705ad16f49cb7ae.jpg    Malignant      0.3439
+197_JPG_jpg.rf.5b512cfd3ee9ef044cd9a91ccb1a7df6.jpg       Benign      0.4087
+197_JPG_jpg.rf.67db4bc88232a7f46067e301c690328e.jpg       Benign      0.3711
+197_JPG_jpg.rf.9184b6c46aa594538a4a64b3b4ee4a64.jpg       Benign      0.3966
+199_JPG_jpg.rf.43d7aaf167a2dbde71896bbffbf6ca8f.jpg Intermediate      0.3717
+ 19_JPG_jpg.rf.1d5d3fa50cbc6e4f2a382664c3f15ba7.jpg       Benign      0.3553
+ 19_JPG_jpg.rf.4d1a831a9ba14776a2611dfb9330407b.jpg       Benign      0.4003
+  1_JPG_jpg.rf.6c158cba50ec8c9cafda95efb7bc3441.jpg Intermediate      0.3614
+      1_png.rf.041a40908939c6612db0535f41c13c8e.jpg Intermediate      0.4616
+200_JPG_jpg.rf.ad4e9583c33b85d5cb1cb9f20a910396.jpg Intermediate      0.4241
+201_JPG_jpg.rf.f2af05be2013897b85a9a275fe17bfd8.jpg Intermediate      0.4229
+202_JPG_jpg.rf.d24665f4b058e52f1dabbb09492bd497.jpg Intermediate      0.3796
+203_JPG_jpg.rf.435fd7c4179042f58454124982feee1a.jpg Intermediate      0.3600
+203_JPG_jpg.rf.4ff4c32ed49b950cf9a3070b2aa678a9.jpg Intermediate      0.3632
+203_JPG_jpg.rf.6615d265d5cce2fd407124e82f521c47.jpg Intermediate      0.3633
+204_JPG_jpg.rf.4631b405e60449d7af34465ca69a7577.jpg Intermediate      0.3369
+204_JPG_jpg.rf.82e9e15cc5d79aab4862d0a5e6da0000.jpg       Benign      0.3822
+205_JPG_jpg.rf.9b6ba3fd40b500a492b37b94fdf1cb4f.jpg    Malignant      0.3750
+206_JPG_jpg.rf.57790ed99ab5587514fb22486bfe0f18.jpg Intermediate      0.3608
+206_JPG_jpg.rf.fc4e0edd5c3d0e664b0088637dfcd9c9.jpg Intermediate      0.4528
+207_JPG_jpg.rf.b554da49ffe64b62c2fac2dc9be1e06b.jpg Intermediate      0.4113
+ 20_JPG_jpg.rf.f26fe5830eb791950d19b265decce41b.jpg       Benign      0.3666
+ 21_JPG_jpg.rf.99f7702aec3c4b35d8d48c152c808712.jpg       Benign      0.3818
+ 22_JPG_jpg.rf.3011f5837c133048f7659da1673794c7.jpg       Benign      0.3634
+ 22_JPG_jpg.rf.96cd47bda401e682010eea494e9be078.jpg       Benign      0.4240
+ 23_JPG_jpg.rf.94732d762e7e1287c58d64a281a84d14.jpg Intermediate      0.3871
+ 23_JPG_jpg.rf.d50505235aac27605b51c45731697734.jpg Intermediate      0.3567
+ 24_JPG_jpg.rf.385466eaefb880387e495b1d91bb7ccf.jpg       Benign      0.3844
+ 25_JPG_jpg.rf.5413516efded6fa18bf70e0cc1e0d41f.jpg       Benign      0.3463
+ 25_JPG_jpg.rf.956b909c256547556bd522bafcd37aa2.jpg Intermediate      0.3739
+ 26_JPG_jpg.rf.8645b7b692eb2b4b570d93926609a014.jpg Intermediate      0.4257
+ 27_JPG_jpg.rf.611c04adb8dae7fa5e629049d8f5768d.jpg Intermediate      0.4323
+ 27_JPG_jpg.rf.d7fd5ed8d39cd9874c9899c66e97be16.jpg       Benign      0.3719
+ 28_JPG_jpg.rf.05369b2cd643ee1b09f120618b0e2bc1.jpg       Benign      0.3549
+ 28_JPG_jpg.rf.4212c43b5407c4015df3d71377f3ac9e.jpg       Benign      0.3845
+
+
+SEGMENTATION RESULTS:
+                                              Image                                             Segmentation  Tumor_Area
+    -1-_jpg.rf.53eac29a51d6094f6d5dcdff51f77017.jpg     mask_-1-_jpg.rf.53eac29a51d6094f6d5dcdff51f77017.jpg           6
+   -10-_jpg.rf.889dd6fb56f8e29060845f66618fc3a1.jpg    mask_-10-_jpg.rf.889dd6fb56f8e29060845f66618fc3a1.jpg         195
+   -15-_jpg.rf.fe7c0eff751bcbeeec1bf2eb8c2057e8.jpg    mask_-15-_jpg.rf.fe7c0eff751bcbeeec1bf2eb8c2057e8.jpg          55
+   -17-_jpg.rf.cb562dc02fc595f4fa137bb5ac8d5f21.jpg    mask_-17-_jpg.rf.cb562dc02fc595f4fa137bb5ac8d5f21.jpg          69
+   -18-_jpg.rf.a17509afe2d41d9b83fad1218af69cc9.jpg    mask_-18-_jpg.rf.a17509afe2d41d9b83fad1218af69cc9.jpg          11
+    -2-_jpg.rf.638c42d59a9ad2aa07ee948c6df915d8.jpg     mask_-2-_jpg.rf.638c42d59a9ad2aa07ee948c6df915d8.jpg           1
+   -21-_jpg.rf.bc4d2a822845cfc79d7eb48eed5ce3a1.jpg    mask_-21-_jpg.rf.bc4d2a822845cfc79d7eb48eed5ce3a1.jpg           1
+   -22-_jpg.rf.90968d03ecbf6c61a52f873edc113bd0.jpg    mask_-22-_jpg.rf.90968d03ecbf6c61a52f873edc113bd0.jpg          11
+   -23-_jpg.rf.d7f26bde896fb20967f4b7f5040234f3.jpg    mask_-23-_jpg.rf.d7f26bde896fb20967f4b7f5040234f3.jpg           3
+   -24-_jpg.rf.bce3ccf0a921014271720364d8956694.jpg    mask_-24-_jpg.rf.bce3ccf0a921014271720364d8956694.jpg           4
+   -25-_jpg.rf.8e87352b0a409b24358c7735d9bf3365.jpg    mask_-25-_jpg.rf.8e87352b0a409b24358c7735d9bf3365.jpg          87
+   -27-_jpg.rf.d93786a6a83da22c63352c41df928939.jpg    mask_-27-_jpg.rf.d93786a6a83da22c63352c41df928939.jpg           0
+    -3-_jpg.rf.5c57a8add85156e24bc68cb2947cde45.jpg     mask_-3-_jpg.rf.5c57a8add85156e24bc68cb2947cde45.jpg           0
+   -30-_jpg.rf.94980c4297bfbc625c3ef250df7a908e.jpg    mask_-30-_jpg.rf.94980c4297bfbc625c3ef250df7a908e.jpg           6
+   -32-_jpg.rf.e101ab9c4998fd9eb93531c85ff52010.jpg    mask_-32-_jpg.rf.e101ab9c4998fd9eb93531c85ff52010.jpg         135
+   -33-_jpg.rf.cac0be009e32ed06ce121da7b89e8930.jpg    mask_-33-_jpg.rf.cac0be009e32ed06ce121da7b89e8930.jpg           1
+   -36-_jpg.rf.887b3cfcfdc62a0ecfdfca75b7091859.jpg    mask_-36-_jpg.rf.887b3cfcfdc62a0ecfdfca75b7091859.jpg          72
+   -38-_jpg.rf.f6f71130f25ab66fa5e73373a8d8c4f8.jpg    mask_-38-_jpg.rf.f6f71130f25ab66fa5e73373a8d8c4f8.jpg          76
+    -4-_jpg.rf.9d861ee840cf83450ecdeeee7738f5e3.jpg     mask_-4-_jpg.rf.9d861ee840cf83450ecdeeee7738f5e3.jpg          10
+   -40-_jpg.rf.2432ba0e8b6387de73317e7b88f7e1e9.jpg    mask_-40-_jpg.rf.2432ba0e8b6387de73317e7b88f7e1e9.jpg          15
+   -42-_jpg.rf.449a8e6271c1348b3810e98e15d1d343.jpg    mask_-42-_jpg.rf.449a8e6271c1348b3810e98e15d1d343.jpg           1
+   -45-_jpg.rf.ce80d60d68a4c7cbf476f8f06bb03072.jpg    mask_-45-_jpg.rf.ce80d60d68a4c7cbf476f8f06bb03072.jpg           1
+   -47-_jpg.rf.1d18532db29349c6957e588284a93571.jpg    mask_-47-_jpg.rf.1d18532db29349c6957e588284a93571.jpg           1
+   -48-_jpg.rf.29c1e93c680f90f5c2f047b2a30d00f8.jpg    mask_-48-_jpg.rf.29c1e93c680f90f5c2f047b2a30d00f8.jpg           4
+   -49-_jpg.rf.77c9c0bbc9bfb392a53de2c86aa8dcd0.jpg    mask_-49-_jpg.rf.77c9c0bbc9bfb392a53de2c86aa8dcd0.jpg          16
+   -50-_jpg.rf.b6a07b193f93e55f6c8098ba652ef81a.jpg    mask_-50-_jpg.rf.b6a07b193f93e55f6c8098ba652ef81a.jpg          17
+   -51-_jpg.rf.0e98efe5f18ae921ec4a412d3fe4e447.jpg    mask_-51-_jpg.rf.0e98efe5f18ae921ec4a412d3fe4e447.jpg          36
+   -52-_jpg.rf.9ff68c5805078b9ea58609cd8b3c334e.jpg    mask_-52-_jpg.rf.9ff68c5805078b9ea58609cd8b3c334e.jpg         266
+   -53-_jpg.rf.08d303d0b43c7b71c3581ec02d7390c3.jpg    mask_-53-_jpg.rf.08d303d0b43c7b71c3581ec02d7390c3.jpg           4
+   -55-_jpg.rf.0ca09338404c9bd5f9d7889019c0d52a.jpg    mask_-55-_jpg.rf.0ca09338404c9bd5f9d7889019c0d52a.jpg           1
+   -56-_jpg.rf.914346f667eca01f60a326caab81979c.jpg    mask_-56-_jpg.rf.914346f667eca01f60a326caab81979c.jpg           1
+   -58-_jpg.rf.22c0ec71aa30dd21ce2c651b4ec75a95.jpg    mask_-58-_jpg.rf.22c0ec71aa30dd21ce2c651b4ec75a95.jpg           1
+   -60-_jpg.rf.3533b1005330945a0629f018dc2ee938.jpg    mask_-60-_jpg.rf.3533b1005330945a0629f018dc2ee938.jpg          65
+  -61-1_jpg.rf.491b4fe71c015563c347f2446f455b31.jpg   mask_-61-1_jpg.rf.491b4fe71c015563c347f2446f455b31.jpg           0
+  -61-2_png.rf.9ea13ab9533cf643f6705e48cc95f5de.jpg   mask_-61-2_png.rf.9ea13ab9533cf643f6705e48cc95f5de.jpg           1
+   -61-_jpg.rf.79760564bbacfe0a84ed1a52d0611961.jpg    mask_-61-_jpg.rf.79760564bbacfe0a84ed1a52d0611961.jpg           0
+   -63-_jpg.rf.448db0424a5031a41855196b87039494.jpg    mask_-63-_jpg.rf.448db0424a5031a41855196b87039494.jpg           1
+   -64-_jpg.rf.82b5f27bedde64cce8767910568c8133.jpg    mask_-64-_jpg.rf.82b5f27bedde64cce8767910568c8133.jpg           0
+   -66-_jpg.rf.003796907f87e42b3756a7c4261024c0.jpg    mask_-66-_jpg.rf.003796907f87e42b3756a7c4261024c0.jpg           1
+    -8-_jpg.rf.12b43a610c7acba9fd71f7614a17b853.jpg     mask_-8-_jpg.rf.12b43a610c7acba9fd71f7614a17b853.jpg           1
+    -9-_jpg.rf.f8a2b031970b17f534ae59298ce379c1.jpg     mask_-9-_jpg.rf.f8a2b031970b17f534ae59298ce379c1.jpg           1
+102_JPG_jpg.rf.7c548adb037ac2a350085e8926286d45.jpg mask_102_JPG_jpg.rf.7c548adb037ac2a350085e8926286d45.jpg           6
+104_JPG_jpg.rf.dc411cb3b6e2e6acc78a920380f17fb9.jpg mask_104_JPG_jpg.rf.dc411cb3b6e2e6acc78a920380f17fb9.jpg         186
+106_JPG_jpg.rf.f5e5b70121c66e035de4983874467a3e.jpg mask_106_JPG_jpg.rf.f5e5b70121c66e035de4983874467a3e.jpg         212
+108_JPG_jpg.rf.2750bee55f7b538687c87b35c6c0f75b.jpg mask_108_JPG_jpg.rf.2750bee55f7b538687c87b35c6c0f75b.jpg           6
+108_JPG_jpg.rf.39bc1ff475f1398954128da1b701f43a.jpg mask_108_JPG_jpg.rf.39bc1ff475f1398954128da1b701f43a.jpg          18
+108_JPG_jpg.rf.4d0d1005a0c2dc23f0411a1d7838a3ab.jpg mask_108_JPG_jpg.rf.4d0d1005a0c2dc23f0411a1d7838a3ab.jpg           5
+     10_jpg.rf.5e1c08bc17a9eeb4662075434025d691.jpg      mask_10_jpg.rf.5e1c08bc17a9eeb4662075434025d691.jpg         680
+     10_jpg.rf.6b6a63c71f37d0148762bc62f7b1910f.jpg      mask_10_jpg.rf.6b6a63c71f37d0148762bc62f7b1910f.jpg         573
+110_JPG_jpg.rf.5115145f34807f104b4b06277d7a6ab3.jpg mask_110_JPG_jpg.rf.5115145f34807f104b4b06277d7a6ab3.jpg          95
+110_JPG_jpg.rf.aedb974c0597a31eaf08e7ea867d60d7.jpg mask_110_JPG_jpg.rf.aedb974c0597a31eaf08e7ea867d60d7.jpg          97
+111_JPG_jpg.rf.ccbbebd750e631f2f5ab400ff71fbfcb.jpg mask_111_JPG_jpg.rf.ccbbebd750e631f2f5ab400ff71fbfcb.jpg           6
+112_JPG_jpg.rf.07a19eaaa53b35ef917319b22977aa2d.jpg mask_112_JPG_jpg.rf.07a19eaaa53b35ef917319b22977aa2d.jpg         198
+115_JPG_jpg.rf.48c1be54b136a5ca9ae883df5f4ee7b7.jpg mask_115_JPG_jpg.rf.48c1be54b136a5ca9ae883df5f4ee7b7.jpg         400
+115_JPG_jpg.rf.d23b07b88ebbc28738b91a7985a0154d.jpg mask_115_JPG_jpg.rf.d23b07b88ebbc28738b91a7985a0154d.jpg         446
+116_JPG_jpg.rf.4c96aed6d0c7991afe26e9b170c81fa2.jpg mask_116_JPG_jpg.rf.4c96aed6d0c7991afe26e9b170c81fa2.jpg         431
+117_JPG_jpg.rf.3999812db7b081da950f2440ece61f1e.jpg mask_117_JPG_jpg.rf.3999812db7b081da950f2440ece61f1e.jpg         395
+117_JPG_jpg.rf.9a249114d634720166e577cbf81ca3fe.jpg mask_117_JPG_jpg.rf.9a249114d634720166e577cbf81ca3fe.jpg          41
+     11_jpg.rf.bc8b735f634bc296fa856b6b2d85c3cd.jpg      mask_11_jpg.rf.bc8b735f634bc296fa856b6b2d85c3cd.jpg          62
+122_JPG_jpg.rf.8f249eb6c6f6bf717f62d6dc3fc7c082.jpg mask_122_JPG_jpg.rf.8f249eb6c6f6bf717f62d6dc3fc7c082.jpg         345
+122_JPG_jpg.rf.a6c73fc5412d937a09a7598ca2e71395.jpg mask_122_JPG_jpg.rf.a6c73fc5412d937a09a7598ca2e71395.jpg          95
+123_JPG_jpg.rf.18835352993520943b6497cdfdcec40d.jpg mask_123_JPG_jpg.rf.18835352993520943b6497cdfdcec40d.jpg           3
+123_JPG_jpg.rf.36401aacf6f5b5ab838077545f3774af.jpg mask_123_JPG_jpg.rf.36401aacf6f5b5ab838077545f3774af.jpg          89
+125_JPG_jpg.rf.d9989ff8a5e1c68981b751aff70d70f1.jpg mask_125_JPG_jpg.rf.d9989ff8a5e1c68981b751aff70d70f1.jpg         226
+126_JPG_jpg.rf.197ddb8c3908d2e1962adb7af866a3a0.jpg mask_126_JPG_jpg.rf.197ddb8c3908d2e1962adb7af866a3a0.jpg         184
+127_JPG_jpg.rf.a480aff4f992bf555e1508b4b0829f07.jpg mask_127_JPG_jpg.rf.a480aff4f992bf555e1508b4b0829f07.jpg          88
+128_JPG_jpg.rf.1089b2e84d432e2b831c78869ba43461.jpg mask_128_JPG_jpg.rf.1089b2e84d432e2b831c78869ba43461.jpg         184
+128_JPG_jpg.rf.dcd66afd3deecefe3f1b7f99088629ee.jpg mask_128_JPG_jpg.rf.dcd66afd3deecefe3f1b7f99088629ee.jpg         222
+129_JPG_jpg.rf.165ba5cf271ff64abacd73a66b9b5a78.jpg mask_129_JPG_jpg.rf.165ba5cf271ff64abacd73a66b9b5a78.jpg         455
+     12_jpg.rf.2cfd8e49a496edf3cccc45bd86a42294.jpg      mask_12_jpg.rf.2cfd8e49a496edf3cccc45bd86a42294.jpg         714
+     12_jpg.rf.74a274af243af7783e3af7b615fb252d.jpg      mask_12_jpg.rf.74a274af243af7783e3af7b615fb252d.jpg         412
+130_JPG_jpg.rf.ce6c03984df6a438aee8ed46dc0619ac.jpg mask_130_JPG_jpg.rf.ce6c03984df6a438aee8ed46dc0619ac.jpg         149
+131_JPG_jpg.rf.1a7a45281a6dec229fc8f1688bbc2214.jpg mask_131_JPG_jpg.rf.1a7a45281a6dec229fc8f1688bbc2214.jpg         102
+132_JPG_jpg.rf.4da49fa7d0c4831db329da29babfcd76.jpg mask_132_JPG_jpg.rf.4da49fa7d0c4831db329da29babfcd76.jpg          49
+132_JPG_jpg.rf.717975238b1eba914599ae07f8c0d51f.jpg mask_132_JPG_jpg.rf.717975238b1eba914599ae07f8c0d51f.jpg         119
+132_JPG_jpg.rf.c55d4af3cdf307afc1a9b84b41fa1423.jpg mask_132_JPG_jpg.rf.c55d4af3cdf307afc1a9b84b41fa1423.jpg          61
+134_JPG_jpg.rf.9625b072169f122dd359da6d46634148.jpg mask_134_JPG_jpg.rf.9625b072169f122dd359da6d46634148.jpg         603
+135_JPG_jpg.rf.9fb262768c7b8d8560e662cca297724e.jpg mask_135_JPG_jpg.rf.9fb262768c7b8d8560e662cca297724e.jpg         335
+136_JPG_jpg.rf.d87a113647354e19a35f68b3f00c002e.jpg mask_136_JPG_jpg.rf.d87a113647354e19a35f68b3f00c002e.jpg          39
+136_JPG_jpg.rf.f0a4d26d8e0d15e2a259603f402b69e6.jpg mask_136_JPG_jpg.rf.f0a4d26d8e0d15e2a259603f402b69e6.jpg          67
+137_JPG_jpg.rf.99b3924e54fc289d559e72c7430e4e36.jpg mask_137_JPG_jpg.rf.99b3924e54fc289d559e72c7430e4e36.jpg         184
+137_JPG_jpg.rf.b5adf4df34d8f170e6c87c771532f0f2.jpg mask_137_JPG_jpg.rf.b5adf4df34d8f170e6c87c771532f0f2.jpg         135
+138_JPG_jpg.rf.3708b18880f3b6502ebfbe2c7455cf04.jpg mask_138_JPG_jpg.rf.3708b18880f3b6502ebfbe2c7455cf04.jpg          66
+138_JPG_jpg.rf.8f0d70313253455ba92e967e894a84e2.jpg mask_138_JPG_jpg.rf.8f0d70313253455ba92e967e894a84e2.jpg         481
+139_JPG_jpg.rf.740d322dbd137a4cb7357ff66e8bcb4b.jpg mask_139_JPG_jpg.rf.740d322dbd137a4cb7357ff66e8bcb4b.jpg         165
+ 13_JPG_jpg.rf.061978472c916ba740a89d59cd171c65.jpg  mask_13_JPG_jpg.rf.061978472c916ba740a89d59cd171c65.jpg         271
+ 13_JPG_jpg.rf.97263fe8f8a4d7e0f1bac8399178e5b7.jpg  mask_13_JPG_jpg.rf.97263fe8f8a4d7e0f1bac8399178e5b7.jpg          64
+141_JPG_jpg.rf.6177aabf820252592a9a23c8eb3cdfc5.jpg mask_141_JPG_jpg.rf.6177aabf820252592a9a23c8eb3cdfc5.jpg         180
+142_JPG_jpg.rf.7b44f0c687beac71ebc6e78a583007af.jpg mask_142_JPG_jpg.rf.7b44f0c687beac71ebc6e78a583007af.jpg         104
+143_JPG_jpg.rf.c0d1292a39a3eb685d46fd61b38c5c24.jpg mask_143_JPG_jpg.rf.c0d1292a39a3eb685d46fd61b38c5c24.jpg         651
+143_JPG_jpg.rf.eb905f436e056ab357f2279eb773d93d.jpg mask_143_JPG_jpg.rf.eb905f436e056ab357f2279eb773d93d.jpg         665
+144_JPG_jpg.rf.c9a1af4cb529d5e50f2394231efb53f1.jpg mask_144_JPG_jpg.rf.c9a1af4cb529d5e50f2394231efb53f1.jpg         141
+145_JPG_jpg.rf.7174d2bbbafe4231d3a7d704da3e012c.jpg mask_145_JPG_jpg.rf.7174d2bbbafe4231d3a7d704da3e012c.jpg         552
+146_JPG_jpg.rf.60a18599ccb14273329e64c4940c19ff.jpg mask_146_JPG_jpg.rf.60a18599ccb14273329e64c4940c19ff.jpg         214
+146_JPG_jpg.rf.a31517bad303956df23afd0ada2b530c.jpg mask_146_JPG_jpg.rf.a31517bad303956df23afd0ada2b530c.jpg         721
+147_JPG_jpg.rf.61bc494b43ba72428892a3367bc4ff65.jpg mask_147_JPG_jpg.rf.61bc494b43ba72428892a3367bc4ff65.jpg          86
+147_JPG_jpg.rf.7844b6f6eb3922feda579be76f7f6fd3.jpg mask_147_JPG_jpg.rf.7844b6f6eb3922feda579be76f7f6fd3.jpg         145
+148_JPG_jpg.rf.351b2e141424673ee5b7c376303d9601.jpg mask_148_JPG_jpg.rf.351b2e141424673ee5b7c376303d9601.jpg         666
+148_JPG_jpg.rf.a97e34d9ae842c4a659f1db934323921.jpg mask_148_JPG_jpg.rf.a97e34d9ae842c4a659f1db934323921.jpg         723
+149_JPG_jpg.rf.bab751ac459534cd390335f1484eecca.jpg mask_149_JPG_jpg.rf.bab751ac459534cd390335f1484eecca.jpg          65
+ 14_JPG_jpg.rf.82425c15fecf249835731730637efe23.jpg  mask_14_JPG_jpg.rf.82425c15fecf249835731730637efe23.jpg         536
+150_JPG_jpg.rf.bb5d127bdf998218cd6c2660a91c4e99.jpg mask_150_JPG_jpg.rf.bb5d127bdf998218cd6c2660a91c4e99.jpg         786
+150_JPG_jpg.rf.fbeb2ae6271e387bcdea484dc92bdadd.jpg mask_150_JPG_jpg.rf.fbeb2ae6271e387bcdea484dc92bdadd.jpg         219
+151_JPG_jpg.rf.75b691d0b69ee50693b4493ffea7afa6.jpg mask_151_JPG_jpg.rf.75b691d0b69ee50693b4493ffea7afa6.jpg          89
+152_JPG_jpg.rf.2a88820bf0a4898981b07e142de029eb.jpg mask_152_JPG_jpg.rf.2a88820bf0a4898981b07e142de029eb.jpg          79
+153_JPG_jpg.rf.13628f4257d11a05bd97007de13bf4b7.jpg mask_153_JPG_jpg.rf.13628f4257d11a05bd97007de13bf4b7.jpg          94
+154_JPG_jpg.rf.721f0e4184e500e69568acf0647b8af8.jpg mask_154_JPG_jpg.rf.721f0e4184e500e69568acf0647b8af8.jpg         114
+156_JPG_jpg.rf.d27b9e46c764def50afd7995f412d749.jpg mask_156_JPG_jpg.rf.d27b9e46c764def50afd7995f412d749.jpg          18
+156_JPG_jpg.rf.d80d8659f48ec0f8ce7815136d6c492e.jpg mask_156_JPG_jpg.rf.d80d8659f48ec0f8ce7815136d6c492e.jpg          51
+157_JPG_jpg.rf.22e695d1674e4bce474e6405cf0bde38.jpg mask_157_JPG_jpg.rf.22e695d1674e4bce474e6405cf0bde38.jpg           3
+157_JPG_jpg.rf.980b3faa366ba3099e4d46b3857346dc.jpg mask_157_JPG_jpg.rf.980b3faa366ba3099e4d46b3857346dc.jpg           7
+158_JPG_jpg.rf.1242fda0b6dd90c6574ea528a70cc298.jpg mask_158_JPG_jpg.rf.1242fda0b6dd90c6574ea528a70cc298.jpg           3
+158_JPG_jpg.rf.d73d4d5cbb4a8f1affbf390d2fe0efaa.jpg mask_158_JPG_jpg.rf.d73d4d5cbb4a8f1affbf390d2fe0efaa.jpg         260
+ 15_JPG_jpg.rf.3bb6404157a126573e21eb036856a1da.jpg  mask_15_JPG_jpg.rf.3bb6404157a126573e21eb036856a1da.jpg         829
+160_JPG_jpg.rf.1426e46480a767b9d5948b4b77a0c07b.jpg mask_160_JPG_jpg.rf.1426e46480a767b9d5948b4b77a0c07b.jpg         130
+160_JPG_jpg.rf.81b414a67b48198db75402a0fa99eee3.jpg mask_160_JPG_jpg.rf.81b414a67b48198db75402a0fa99eee3.jpg         147
+161_JPG_jpg.rf.d3d1d5cbec1b4d40addc402694114867.jpg mask_161_JPG_jpg.rf.d3d1d5cbec1b4d40addc402694114867.jpg          10
+161_JPG_jpg.rf.fb066e11e911fbef64020e2f20c2017c.jpg mask_161_JPG_jpg.rf.fb066e11e911fbef64020e2f20c2017c.jpg          16
+164_JPG_jpg.rf.76c45e75b68b84d694ca6ea325a58433.jpg mask_164_JPG_jpg.rf.76c45e75b68b84d694ca6ea325a58433.jpg         213
+164_JPG_jpg.rf.a28323aa4ba0855a4c28064a28779065.jpg mask_164_JPG_jpg.rf.a28323aa4ba0855a4c28064a28779065.jpg          83
+169_JPG_jpg.rf.0178a5c0fba48f939a3db2f07d51b790.jpg mask_169_JPG_jpg.rf.0178a5c0fba48f939a3db2f07d51b790.jpg         229
+169_JPG_jpg.rf.02a0c2302cc5e4563adda9d68209d866.jpg mask_169_JPG_jpg.rf.02a0c2302cc5e4563adda9d68209d866.jpg         123
+ 16_JPG_jpg.rf.4c07171addb2ecafd4f8b97aebd83f81.jpg  mask_16_JPG_jpg.rf.4c07171addb2ecafd4f8b97aebd83f81.jpg         237
+ 16_JPG_jpg.rf.5386f0038ed46bdefcea4f567dbd5fbf.jpg  mask_16_JPG_jpg.rf.5386f0038ed46bdefcea4f567dbd5fbf.jpg         205
+170_JPG_jpg.rf.24222b3669bb829637f4a61f311f9b1b.jpg mask_170_JPG_jpg.rf.24222b3669bb829637f4a61f311f9b1b.jpg         154
+170_JPG_jpg.rf.b8f00623bb06177eff073a9679634485.jpg mask_170_JPG_jpg.rf.b8f00623bb06177eff073a9679634485.jpg           4
+171_JPG_jpg.rf.026151bc7120b73749d5bc2971877313.jpg mask_171_JPG_jpg.rf.026151bc7120b73749d5bc2971877313.jpg          81
+171_JPG_jpg.rf.dbc1134c24ada191e4d9a332fc742da8.jpg mask_171_JPG_jpg.rf.dbc1134c24ada191e4d9a332fc742da8.jpg           6
+172_JPG_jpg.rf.73b1b1d5b0ef8f2b50871aea0ba2d237.jpg mask_172_JPG_jpg.rf.73b1b1d5b0ef8f2b50871aea0ba2d237.jpg         213
+173_JPG_jpg.rf.0d88e9c0b6c29db9b6653b1d98c0b11e.jpg mask_173_JPG_jpg.rf.0d88e9c0b6c29db9b6653b1d98c0b11e.jpg         136
+174_JPG_jpg.rf.699d411c89c87c7c097d2c6f14201bfd.jpg mask_174_JPG_jpg.rf.699d411c89c87c7c097d2c6f14201bfd.jpg         108
+175_JPG_jpg.rf.7998a804b66bbceda443ec9e0515e83c.jpg mask_175_JPG_jpg.rf.7998a804b66bbceda443ec9e0515e83c.jpg           0
+176_JPG_jpg.rf.96469fdb2e4263328d0f151c427e9fae.jpg mask_176_JPG_jpg.rf.96469fdb2e4263328d0f151c427e9fae.jpg           1
+177_JPG_jpg.rf.f500dd6dca34b1c12aded10ae71e6dbe.jpg mask_177_JPG_jpg.rf.f500dd6dca34b1c12aded10ae71e6dbe.jpg           7
+178_JPG_jpg.rf.f59b665c83c44a7c201ad1fc521d58b3.jpg mask_178_JPG_jpg.rf.f59b665c83c44a7c201ad1fc521d58b3.jpg         133
+179_JPG_jpg.rf.618ac1c857df9d5145767b47f5e6840b.jpg mask_179_JPG_jpg.rf.618ac1c857df9d5145767b47f5e6840b.jpg         132
+179_JPG_jpg.rf.dc1bb8860ebc01739c233cc08d5121c5.jpg mask_179_JPG_jpg.rf.dc1bb8860ebc01739c233cc08d5121c5.jpg         225
+ 17_JPG_jpg.rf.1ec9b21d69b9a6a330bd23be2245a570.jpg  mask_17_JPG_jpg.rf.1ec9b21d69b9a6a330bd23be2245a570.jpg         114
+ 17_JPG_jpg.rf.f33aed52de923381680736cfaf4b5051.jpg  mask_17_JPG_jpg.rf.f33aed52de923381680736cfaf4b5051.jpg          47
+180_JPG_jpg.rf.2ddd89a03d6e1d2cdb955b2c1bb3327d.jpg mask_180_JPG_jpg.rf.2ddd89a03d6e1d2cdb955b2c1bb3327d.jpg           1
+181_JPG_jpg.rf.75918bb4cfa9095b6d283c7a72db208f.jpg mask_181_JPG_jpg.rf.75918bb4cfa9095b6d283c7a72db208f.jpg          11
+182_JPG_jpg.rf.a0625372688546be2539dc0ac789d56c.jpg mask_182_JPG_jpg.rf.a0625372688546be2539dc0ac789d56c.jpg          25
+183_JPG_jpg.rf.7265b14b70175e710c781991b0711b42.jpg mask_183_JPG_jpg.rf.7265b14b70175e710c781991b0711b42.jpg          81
+183_JPG_jpg.rf.babe2899b7e9e48a3cc3780aba01578a.jpg mask_183_JPG_jpg.rf.babe2899b7e9e48a3cc3780aba01578a.jpg          74
+184_JPG_jpg.rf.782086206b906957f764532559ff1639.jpg mask_184_JPG_jpg.rf.782086206b906957f764532559ff1639.jpg         445
+184_JPG_jpg.rf.83b7d0ecd7a04ddaa86342795cdfb80b.jpg mask_184_JPG_jpg.rf.83b7d0ecd7a04ddaa86342795cdfb80b.jpg         222
+185_JPG_jpg.rf.9d81c6c1ae4ab69dfcaa03f3df9eef60.jpg mask_185_JPG_jpg.rf.9d81c6c1ae4ab69dfcaa03f3df9eef60.jpg         102
+185_JPG_jpg.rf.fec6648825e902ae056a91370b046a34.jpg mask_185_JPG_jpg.rf.fec6648825e902ae056a91370b046a34.jpg         352
+186_JPG_jpg.rf.eae72768b80556680b0ae3dce7e22852.jpg mask_186_JPG_jpg.rf.eae72768b80556680b0ae3dce7e22852.jpg          25
+187_JPG_jpg.rf.bfeadd43af8da45c78f59a7691ef7870.jpg mask_187_JPG_jpg.rf.bfeadd43af8da45c78f59a7691ef7870.jpg         338
+187_JPG_jpg.rf.df74766d863468399f06fdc62c971ed8.jpg mask_187_JPG_jpg.rf.df74766d863468399f06fdc62c971ed8.jpg         233
+188_JPG_jpg.rf.b7a92068dbfd9ba209c78b639aac3431.jpg mask_188_JPG_jpg.rf.b7a92068dbfd9ba209c78b639aac3431.jpg         184
+188_JPG_jpg.rf.d0cd15cb0ed99eb1f0fcf2bba47f218d.jpg mask_188_JPG_jpg.rf.d0cd15cb0ed99eb1f0fcf2bba47f218d.jpg         230
+189_JPG_jpg.rf.730211fc485967a85610a7c56ae45342.jpg mask_189_JPG_jpg.rf.730211fc485967a85610a7c56ae45342.jpg         195
+ 18_JPG_jpg.rf.3ddccaf764a95419c5d56cb944420900.jpg  mask_18_JPG_jpg.rf.3ddccaf764a95419c5d56cb944420900.jpg         231
+ 18_JPG_jpg.rf.7db6c8a12ef412b7f5ff3f38eaede31d.jpg  mask_18_JPG_jpg.rf.7db6c8a12ef412b7f5ff3f38eaede31d.jpg         438
+191_JPG_jpg.rf.1e3941b96ec357fe7a6246aaf91da5aa.jpg mask_191_JPG_jpg.rf.1e3941b96ec357fe7a6246aaf91da5aa.jpg         160
+192_JPG_jpg.rf.b304f2b0ee63b918e387a4dfb4a16ae9.jpg mask_192_JPG_jpg.rf.b304f2b0ee63b918e387a4dfb4a16ae9.jpg         281
+193_JPG_jpg.rf.4048482795844fae4db439c8adeb8f48.jpg mask_193_JPG_jpg.rf.4048482795844fae4db439c8adeb8f48.jpg         210
+193_JPG_jpg.rf.75bce10b67f8c37d981ffc9aac1a7422.jpg mask_193_JPG_jpg.rf.75bce10b67f8c37d981ffc9aac1a7422.jpg          55
+194_JPG_jpg.rf.8505e477f43ff122fa07dc8ef495a871.jpg mask_194_JPG_jpg.rf.8505e477f43ff122fa07dc8ef495a871.jpg           3
+195_JPG_jpg.rf.53176cf0fe2e80025378484dd6aef115.jpg mask_195_JPG_jpg.rf.53176cf0fe2e80025378484dd6aef115.jpg           5
+195_JPG_jpg.rf.72031a979f170cdbb9996374472ce203.jpg mask_195_JPG_jpg.rf.72031a979f170cdbb9996374472ce203.jpg           5
+195_JPG_jpg.rf.cae872dfaa3fe3ead61b6162b4d5366e.jpg mask_195_JPG_jpg.rf.cae872dfaa3fe3ead61b6162b4d5366e.jpg         250
+196_JPG_jpg.rf.9abc9c114b9723576d6acf3abf928429.jpg mask_196_JPG_jpg.rf.9abc9c114b9723576d6acf3abf928429.jpg         213
+196_JPG_jpg.rf.e5ec6cb5121e4dc5a705ad16f49cb7ae.jpg mask_196_JPG_jpg.rf.e5ec6cb5121e4dc5a705ad16f49cb7ae.jpg          88
+197_JPG_jpg.rf.5b512cfd3ee9ef044cd9a91ccb1a7df6.jpg mask_197_JPG_jpg.rf.5b512cfd3ee9ef044cd9a91ccb1a7df6.jpg         491
+197_JPG_jpg.rf.67db4bc88232a7f46067e301c690328e.jpg mask_197_JPG_jpg.rf.67db4bc88232a7f46067e301c690328e.jpg         593
+197_JPG_jpg.rf.9184b6c46aa594538a4a64b3b4ee4a64.jpg mask_197_JPG_jpg.rf.9184b6c46aa594538a4a64b3b4ee4a64.jpg         930
+199_JPG_jpg.rf.43d7aaf167a2dbde71896bbffbf6ca8f.jpg mask_199_JPG_jpg.rf.43d7aaf167a2dbde71896bbffbf6ca8f.jpg         513
+ 19_JPG_jpg.rf.1d5d3fa50cbc6e4f2a382664c3f15ba7.jpg  mask_19_JPG_jpg.rf.1d5d3fa50cbc6e4f2a382664c3f15ba7.jpg         425
+ 19_JPG_jpg.rf.4d1a831a9ba14776a2611dfb9330407b.jpg  mask_19_JPG_jpg.rf.4d1a831a9ba14776a2611dfb9330407b.jpg         370
+  1_JPG_jpg.rf.6c158cba50ec8c9cafda95efb7bc3441.jpg   mask_1_JPG_jpg.rf.6c158cba50ec8c9cafda95efb7bc3441.jpg         304
+      1_png.rf.041a40908939c6612db0535f41c13c8e.jpg       mask_1_png.rf.041a40908939c6612db0535f41c13c8e.jpg         101
+200_JPG_jpg.rf.ad4e9583c33b85d5cb1cb9f20a910396.jpg mask_200_JPG_jpg.rf.ad4e9583c33b85d5cb1cb9f20a910396.jpg           2
+201_JPG_jpg.rf.f2af05be2013897b85a9a275fe17bfd8.jpg mask_201_JPG_jpg.rf.f2af05be2013897b85a9a275fe17bfd8.jpg         151
+202_JPG_jpg.rf.d24665f4b058e52f1dabbb09492bd497.jpg mask_202_JPG_jpg.rf.d24665f4b058e52f1dabbb09492bd497.jpg         132
+203_JPG_jpg.rf.435fd7c4179042f58454124982feee1a.jpg mask_203_JPG_jpg.rf.435fd7c4179042f58454124982feee1a.jpg           1
+203_JPG_jpg.rf.4ff4c32ed49b950cf9a3070b2aa678a9.jpg mask_203_JPG_jpg.rf.4ff4c32ed49b950cf9a3070b2aa678a9.jpg         157
+203_JPG_jpg.rf.6615d265d5cce2fd407124e82f521c47.jpg mask_203_JPG_jpg.rf.6615d265d5cce2fd407124e82f521c47.jpg           3
+204_JPG_jpg.rf.4631b405e60449d7af34465ca69a7577.jpg mask_204_JPG_jpg.rf.4631b405e60449d7af34465ca69a7577.jpg          93
+204_JPG_jpg.rf.82e9e15cc5d79aab4862d0a5e6da0000.jpg mask_204_JPG_jpg.rf.82e9e15cc5d79aab4862d0a5e6da0000.jpg         280
+205_JPG_jpg.rf.9b6ba3fd40b500a492b37b94fdf1cb4f.jpg mask_205_JPG_jpg.rf.9b6ba3fd40b500a492b37b94fdf1cb4f.jpg         119
+206_JPG_jpg.rf.57790ed99ab5587514fb22486bfe0f18.jpg mask_206_JPG_jpg.rf.57790ed99ab5587514fb22486bfe0f18.jpg         226
+206_JPG_jpg.rf.fc4e0edd5c3d0e664b0088637dfcd9c9.jpg mask_206_JPG_jpg.rf.fc4e0edd5c3d0e664b0088637dfcd9c9.jpg          59
+207_JPG_jpg.rf.b554da49ffe64b62c2fac2dc9be1e06b.jpg mask_207_JPG_jpg.rf.b554da49ffe64b62c2fac2dc9be1e06b.jpg          91
+ 20_JPG_jpg.rf.f26fe5830eb791950d19b265decce41b.jpg  mask_20_JPG_jpg.rf.f26fe5830eb791950d19b265decce41b.jpg          63
+ 21_JPG_jpg.rf.99f7702aec3c4b35d8d48c152c808712.jpg  mask_21_JPG_jpg.rf.99f7702aec3c4b35d8d48c152c808712.jpg          42
+ 22_JPG_jpg.rf.3011f5837c133048f7659da1673794c7.jpg  mask_22_JPG_jpg.rf.3011f5837c133048f7659da1673794c7.jpg         149
+ 22_JPG_jpg.rf.96cd47bda401e682010eea494e9be078.jpg  mask_22_JPG_jpg.rf.96cd47bda401e682010eea494e9be078.jpg         626
+ 23_JPG_jpg.rf.94732d762e7e1287c58d64a281a84d14.jpg  mask_23_JPG_jpg.rf.94732d762e7e1287c58d64a281a84d14.jpg         200
+ 23_JPG_jpg.rf.d50505235aac27605b51c45731697734.jpg  mask_23_JPG_jpg.rf.d50505235aac27605b51c45731697734.jpg          26
+ 24_JPG_jpg.rf.385466eaefb880387e495b1d91bb7ccf.jpg  mask_24_JPG_jpg.rf.385466eaefb880387e495b1d91bb7ccf.jpg         114
+ 25_JPG_jpg.rf.5413516efded6fa18bf70e0cc1e0d41f.jpg  mask_25_JPG_jpg.rf.5413516efded6fa18bf70e0cc1e0d41f.jpg         292
+ 25_JPG_jpg.rf.956b909c256547556bd522bafcd37aa2.jpg  mask_25_JPG_jpg.rf.956b909c256547556bd522bafcd37aa2.jpg         672
+ 26_JPG_jpg.rf.8645b7b692eb2b4b570d93926609a014.jpg  mask_26_JPG_jpg.rf.8645b7b692eb2b4b570d93926609a014.jpg          52
+ 27_JPG_jpg.rf.611c04adb8dae7fa5e629049d8f5768d.jpg  mask_27_JPG_jpg.rf.611c04adb8dae7fa5e629049d8f5768d.jpg         180
+ 27_JPG_jpg.rf.d7fd5ed8d39cd9874c9899c66e97be16.jpg  mask_27_JPG_jpg.rf.d7fd5ed8d39cd9874c9899c66e97be16.jpg         176
+ 28_JPG_jpg.rf.05369b2cd643ee1b09f120618b0e2bc1.jpg  mask_28_JPG_jpg.rf.05369b2cd643ee1b09f120618b0e2bc1.jpg          78
+ 28_JPG_jpg.rf.4212c43b5407c4015df3d71377f3ac9e.jpg  mask_28_JPG_jpg.rf.4212c43b5407c4015df3d71377f3ac9e.jpg          68
+
+
+RECOMMENDATIONS:
+ URGENT: Malignant tumors detected - Immediate specialist consultation required
+ Multiple concerning findings - Recommend full diagnostic workup
